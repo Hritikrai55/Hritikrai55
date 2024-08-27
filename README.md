@@ -8,22 +8,23 @@
 - 📫 How to reach me: https://www.linkedin.com/in/hritik-rai-/
 
 ## Skills and Interests
-Python Programming 🐍
-Exploratory Data Analysis (EDA) 📊
-Web Scraping 🌐
-Data Cleaning 🧹
-Data Manipulation 🛠️
-SQL Databases 📚
-Excel 📋
-Tableau 📈
-Power BI 📊
-Statistics 📐
-Hypothesis Testing 🔍
-A/B Testing 🧪
-Data Preprocessing 🚀
-Machine Learning 🤖
-Model Training 🏋️‍♂️
-Natural Language Processing (NLP) 🗣️
+
+- **Python Programming** 🐍
+- **Exploratory Data Analysis (EDA)** 📊
+- **Web Scraping** 🌐
+- **Data Cleaning** 🧹
+- **Data Manipulation** 🛠️
+- **SQL Databases** 📚
+- **Excel** 📋
+- **Tableau** 📈
+- **Power BI** 📊
+- **Statistics** 📐
+- **Hypothesis Testing** 🔍
+- **A/B Testing** 🧪
+- **Data Preprocessing** 🚀
+- **Machine Learning** 🤖
+- **Model Training** 🏋️‍♂️
+- **Natural Language Processing (NLP)** 🗣️
 
 
 Feel free to connect with me if you share similar interests or have exciting opportunities to collaborate on data-driven projects. Let's learn and grow together! 🌟
