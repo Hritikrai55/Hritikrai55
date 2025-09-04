@@ -1,28 +1,50 @@
 # Hi, I’m Hritik 👋
 
-**Data Scientist / ML Engineer** focused on analytics, forecasting, and practical ML (from EDA → modeling → deployment). I like turning messy data into simple decisions and shipping small, fast demos that work.
+**Data Scientist | Machine Learning Engineer | AI Enthusiast**
 
-- 🧭 **Focus:** forecasting, recommender systems, LLM apps, and end-to-end analytics
-- ⚙️ **Tooling:** Python, scikit-learn, PyTorch (basics), PySpark/Spark ML, SQL, Pandas, Matplotlib; MLOps hygiene (envs, reproducibility)
+I specialize in **building intelligent data-driven systems** — from analytics and forecasting, to modern GenAI applications and scalable ML deployments. My work combines solid foundations in statistics and machine learning with hands-on expertise in MLOps and big data tooling.
+
+---
 
 ## 🔧 Skills & Tools
-- **Languages:** Python, SQL
-- **ML:** scikit-learn, feature engineering, cross-validation, metrics (AUC, RMSE, F1)
-- **Data @ scale:** PySpark, Hadoop ecosystem (Hive/MapReduce)
-- **NLP/LLMs:** prompt engineering, lightweight chat apps
-- **Analytics/Vis:** Pandas, Matplotlib, (Tableau/Power BI basics)
-- **Ops:** Conda/venv, requirements.txt, structured repos, README-first docs
 
-## ⭐ Featured Projects
-- [YouTube-Ad-Recommendation-System](https://github.com/Hritikrai55/YouTube-Ad-Recommendation-System) — recommender for higher ad relevance  
-- [Bike_Sharing_Demand_Prediction__ML_Regression_Project](https://github.com/Hritikrai55/Bike_Sharing_Demand_Prediction__ML_Regression_Project) — hourly demand forecasting  
-- [Financial-Forecasting-Frontier-Distributed-ML](https://github.com/Hritikrai55/Financial-Forecasting-Frontier-Distributed-ML) — Spark-scale propensity modeling  
-- [Voyage-Analytics-Integrating-MLOPS-in-Travel](https://github.com/Hritikrai55/Voyage-Analytics-Intergrating-MLOPS-in-Travel) — analytics with MLOps backbone  
-- [Chatbot-Lama3-meets-Gemma2](https://github.com/Hritikrai55/Chatbot-Lama3-meets-Gemma2) — small-LLM chatbot  
-- [Integrated-Retail-Analytics-for-Store-Optimization](https://github.com/Hritikrai55/Integrated-Retail-Analytics-for-Store-Optimization) — retail KPI insights
+- **Programming & Automation:** Python (Selenium), scripting, workflow automation  
+- **Data Analysis & Visualization:** NumPy, Pandas, Matplotlib, Seaborn, Excel, Power BI  
+- **Databases:** RDBMS fundamentals, SQL (queries, optimization)  
+- **Statistics:** Linear Algebra, Calculus, Probability, Descriptive and Inferential Statistics
+- **Machine Learning:** scikit-learn, tenserflow, model development & evaluation  
+- **MLOps:** Docker, Kubernetes, Airflow, Jenkins, MLflow (experiment tracking, deployment)  
+- **Big Data:** PySpark, Hadoop, Hive (ETL & distributed ML)  
+- **Deep Learning:** Neural Networks, CNNs for Computer Vision, NLP models , Transformers 
+- **GenAI & LLMs:** LangChain for pipelines and chatbots, prompt engineering
 
-> Each repo README includes: problem, data, how to run, results, and next steps.
+---
 
-## 📫 Contact / Links
-- LinkedIn: https://www.linkedin.com/in/hritik-rai-/
-- GitHub: https://github.com/Hritikrai55
+## 🚀 What I’m Working On
+- Building **end-to-end ML projects** with clear business impact  
+- Experimenting with **LangChain** and lightweight LLM apps  
+- Exploring **MLOps workflows** for reproducibility and scalable deployment  
+- Applying **Deep Learning (CNN/NLP)** to real-world datasets
+
+---
+
+## 📌 Featured Projects
+_(see pinned repositories on my profile for full details)_
+
+- **Llama Fine tuned LLM** → fine tuned llm for industry specific use case
+- **Bike Sharing Demand Prediction** → regression project with feature engineering & model benchmarking  
+- **Financial Forecasting (Distributed ML)** → large-scale ML using PySpark and Hadoop ecosystem  
+- **Travel Analytics with MLOps** → reproducible pipeline with Airflow, Docker, and CI/CD  
+- **Chatbot (Google/Gemma-2)** → lightweight LLM-powered chatbot built with LangChain  
+- **Retail Analytics Dashboard** → store optimization insights with data visualization
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/hritik-rai-/)  
+- 📂 [GitHub](https://github.com/Hritikrai55)
+
+---
+
+⭐️ *I believe in making complex data problems simple, reproducible, and impactful.*
