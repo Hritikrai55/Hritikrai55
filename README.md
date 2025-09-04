@@ -44,6 +44,7 @@ _(see pinned repositories on my profile for full details)_
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/hritik-rai-/)  
 - 📂 [GitHub](https://github.com/Hritikrai55)
+- 📩 [Gmail](hritikrai55@gmail.com)
 
 ---
 
